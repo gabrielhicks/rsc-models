@@ -1,0 +1,23 @@
+newmtl default
+Kd 1.000000 0.000000 1.000000
+d 0.000000
+
+newmtl material_0
+Kd 0.419355 0.225806 0.032258
+illum 1
+
+newmtl material_1
+map_Kd planks.png
+illum 1
+
+newmtl material_2
+map_Kd railings.png
+illum 1
+
+newmtl material_3
+Kd 0.838710 0.774194 0.580645
+illum 1
+
+newmtl material_4
+Kd 0.645161 0.516129 0.354839
+illum 1

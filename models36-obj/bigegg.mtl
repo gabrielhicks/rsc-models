@@ -1,0 +1,11 @@
+newmtl default
+Kd 1.000000 0.000000 1.000000
+d 0.000000
+
+newmtl material_0
+map_Kd growingwheat.png
+illum 1
+
+newmtl material_1
+Kd 0.838710 0.838710 1.000000
+illum 1

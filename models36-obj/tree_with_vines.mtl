@@ -1,0 +1,15 @@
+newmtl default
+Kd 1.000000 0.000000 1.000000
+d 0.000000
+
+newmtl material_0
+Kd 0.387097 0.258065 0.000000
+illum 1
+
+newmtl material_1
+map_Kd leafytree.png
+illum 1
+
+newmtl material_2
+Kd 0.193548 0.451613 0.000000
+illum 1

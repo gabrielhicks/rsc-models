@@ -1,0 +1,11 @@
+newmtl default
+Kd 1.000000 0.000000 1.000000
+d 0.000000
+
+newmtl material_0
+Kd 0.580645 0.258065 0.000000
+illum 1
+
+newmtl material_1
+map_Kd deadtree.png
+illum 1
